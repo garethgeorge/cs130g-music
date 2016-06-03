@@ -16,6 +16,6 @@ make
 
 # Screenshots
 microphone input visualizer
-![Alt text](/screenshot-1.png?raw=true "Mic-Visualizer")
+![Alt text](https://raw.githubusercontent.com/garethgeorge/cs130g-music/master/cpp-visualizer/screenshot-1.png?raw=true "Mic-Visualizer")
 .wav song visualizer
-![Alt text](/screenshot-2.png?raw=true "Visualizer")
+![Alt text](https://raw.githubusercontent.com/garethgeorge/cs130g-music/master/cpp-visualizer/screenshot-2.png?raw=true"Visualizer")
